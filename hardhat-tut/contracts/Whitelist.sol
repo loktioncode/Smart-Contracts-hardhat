@@ -1,6 +1,7 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
+// Whitelist Contract Address- rinkeby: 0x27FB269B7FA7F0514d8b263daEb0E7Da7A168770
 
 contract Whitelist {
 
