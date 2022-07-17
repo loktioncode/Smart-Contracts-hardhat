@@ -174,6 +174,10 @@ export default function Home() {
     }
   };
 
+  useEffect(() => {
+    getNumberOfWhitelisted();
+  }, []);
+
   // useEffects are used to react to changes in state of the website
   // The array at the end of function call represents what state changes will trigger this effect
   // In this case, whenever the value of `walletConnected` changes - this effect will be called
