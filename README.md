@@ -1,1 +1,4 @@
-# smart-contract and the UI buiilt with solidity and react
+# ETH Wallet Whitelist DAPP
+## Smart contract build with solidity and Hardhart used for deploying
+## UI build using Next.js
+## 
